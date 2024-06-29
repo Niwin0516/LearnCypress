@@ -27,7 +27,6 @@
 
 <h1> Report </h1>
 <u></u>
-<img src="[/Users/niwinpriskilanapitupulu/Downloads/report.png](https://drive.google.com/file/d/1jWa1Zu-W3ISKD36sccE8LkFDrUiTIB4T/view?usp=sharing)" alt="Deskripsi Gambar">
-
+![report](https://github.com/Niwin0516/LearnCypress/blob/master/cypress/reports/html/index.html)
 
 

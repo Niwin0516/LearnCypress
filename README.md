@@ -27,7 +27,8 @@
 
 <h1> Report </h1>
 <u></u>
-![report](https://github.com/Niwin0516/LearnCypress/assets/159603613/fe2499fe-d32f-4cff-8074-bd6cea40ac41)
+<img src="https://drive.google.com/file/d/1jWa1Zu-W3ISKD36sccE8LkFDrUiTIB4T/view?usp=drive_link" alt="Deskripsi Gambar">
+
 
 
 

@@ -18,17 +18,13 @@
 <h1> Run Test </h1>
 <u></u>
 <li> Open Browser</li>
-<img src="https://drive.google.com/file/d/12foVf2re5mdo3uU95KtZtH4KR0ndBnDw/view?usp=drive_link" alt="ReposrtfromBrowser">
-
 
 <li>Run from terminal</li>
-<img src="https://drive.google.com/file/d/1eVWWZqTV1QMfaEK034wcYQImET-Sw1Ro/view?usp=drive_link" alt="ReposrtfromTerminal">
+<img width="1208" alt="image" src="https://github.com/Niwin0516/LearnCypress/assets/159603613/2f387e24-3e03-402b-9ca9-50639d5fab22">
 
 
 <h1> Report </h1>
 <u></u>
-![alt text](https://github.com/Niwin0516/LearnCypress/blob/master/report.png?raw=true)
-
 <img width="1067" alt="image" src="https://github.com/Niwin0516/LearnCypress/assets/159603613/e71e58b7-a950-4d61-8849-9da7892421fb">
 
 

@@ -27,8 +27,9 @@
 
 <h1> Report </h1>
 <u></u>
-<img src="https://drive.google.com/file/d/1jWa1Zu-W3ISKD36sccE8LkFDrUiTIB4T/view?usp=drive_link">
+![alt text](https://github.com/Niwin0516/LearnCypress/blob/master/report.png?raw=true)
 
+<img width="1067" alt="image" src="https://github.com/Niwin0516/LearnCypress/assets/159603613/e71e58b7-a950-4d61-8849-9da7892421fb">
 
 
 

@@ -18,7 +18,7 @@
 <h1> Run Test </h1>
 <u></u>
 <li> Open Browser</li>
-[Tautan Video](https://drive.google.com/file/d/1eVWWZqTV1QMfaEK034wcYQImET-Sw1Ro/view?usp=sharing)
+[Tautan Video](https://www.youtube.com/watch?v=lTMZxWMjXQU)
 
 
 

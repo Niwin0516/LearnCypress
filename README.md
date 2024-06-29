@@ -27,7 +27,7 @@
 
 <h1> Report </h1>
 <u></u>
-<img src="https://drive.google.com/file/d/1jWa1Zu-W3ISKD36sccE8LkFDrUiTIB4T/view?usp=drive_link" alt="Deskripsi Gambar">
+<img src="https://drive.google.com/file/d/1jWa1Zu-W3ISKD36sccE8LkFDrUiTIB4T/view?usp=drive_link">
 
 
 

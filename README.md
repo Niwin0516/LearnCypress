@@ -25,7 +25,7 @@
 
 <h1> Report </h1>
 <u></u>
-
+![report](https://github.com/Niwin0516/LearnCypress/assets/159603613/df89a343-69bc-48c2-abcd-6ec3d788e0f0)
 
 
 

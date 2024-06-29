@@ -25,7 +25,8 @@
 
 <h1> Report </h1>
 <u></u>
-![Report](![screencapture-file-Users-niwinpriskilanapitupulu-Desktop-Learn-Cypress-cypress-reports-html-index-html-2024-06-29-21_00_37](https://github.com/Niwin0516/LearnCypress/assets/159603613/a5b6f9fe-37f1-498b-a0ca-5489ee5a429b)
-)
+<img src="![screencapture-file-Users-niwinpriskilanapitupulu-Desktop-Learn-Cypress-cypress-reports-html-index-html-2024-06-29-21_00_37](https://github.com/Niwin0516/LearnCypress/assets/159603613/01845a9f-9019-4fa9-ae74-4c2b29884b2f)
+" alt="Deskripsi Gambar">
+
 
 

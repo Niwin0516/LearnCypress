@@ -29,4 +29,7 @@
 <h1> Report </h1>
 <u></u>
 ![report](https://github.com/Niwin0516/LearnCypress/blob/master/cypress/reports/html/index.html?raw=true)
+![report](https://github.com/Niwin0516/LearnCypress/assets/159603613/4501e2bd-ce1b-49f3-852f-8fc1777ea98d)
+
+
 

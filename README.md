@@ -18,7 +18,8 @@
 <h1> Run Test </h1>
 <u></u>
 <li> Open Browser</li>
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1eVWWZqTV1QMfaEK034wcYQImET-Sw1Ro/view?usp=sharing" frameborder="0" allowfullscreen> </iframe>
+[Tautan Video]([URL_video](https://drive.google.com/file/d/1eVWWZqTV1QMfaEK034wcYQImET-Sw1Ro/view?usp=sharing))
+
 
 
 <li>Run from terminal</li>

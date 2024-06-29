@@ -1,6 +1,6 @@
 <h1> How to Install </h1>
 <u></u>
-<li>Open terminal</li>
+<ol>Open terminal</ol>
 <li>Download repository</li>
 <li>Open directory <pre><code>cd LearnCypress</code></pre> </li>
 <li>Install node.js</li>

@@ -18,10 +18,11 @@
 <h1> Run Test </h1>
 <u></u>
 <li> Open Browser</li>
-<img src="[[URL_gambar](https://drive.google.com/file/d/12foVf2re5mdo3uU95KtZtH4KR0ndBnDw/view?usp=drive_link)](https://drive.google.com/file/d/12foVf2re5mdo3uU95KtZtH4KR0ndBnDw/view?usp=drive_link)" alt="Deskripsi Gambar">
+<img src="https://drive.google.com/file/d/12foVf2re5mdo3uU95KtZtH4KR0ndBnDw/view?usp=drive_link" alt="ReposrtfromBrowser">
+
 
 <li>Run from terminal</li>
-![report](https://drive.google.com/file/d/1eVWWZqTV1QMfaEK034wcYQImET-Sw1Ro/view?usp=drive_link)
+<img src="https://drive.google.com/file/d/1eVWWZqTV1QMfaEK034wcYQImET-Sw1Ro/view?usp=drive_link" alt="ReposrtfromTerminal">
 
 
 <h1> Report </h1>

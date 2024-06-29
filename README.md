@@ -18,7 +18,7 @@
 <h1> Run Test </h1>
 <u></u>
 <li> Open Browser</li>
-![report]('https://drive.google.com/file/d/12foVf2re5mdo3uU95KtZtH4KR0ndBnDw/view?usp=drive_link')
+![report](https://drive.google.com/file/d/12foVf2re5mdo3uU95KtZtH4KR0ndBnDw/view?usp=drive_link)
 
 <li>Run from terminal</li>
 ![report](https://drive.google.com/file/d/1eVWWZqTV1QMfaEK034wcYQImET-Sw1Ro/view?usp=drive_link)

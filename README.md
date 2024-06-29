@@ -26,7 +26,8 @@
 
 <h1> Report </h1>
 <u></u>
-![report](https://github.com/Niwin0516/LearnCypress/assets/159603613/df89a343-69bc-48c2-abcd-6ec3d788e0f0)
+![report](https://github.com/Niwin0516/LearnCypress/assets/159603613/fe2499fe-d32f-4cff-8074-bd6cea40ac41)
+
 
 
 

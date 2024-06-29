@@ -27,6 +27,5 @@
 
 <h1> Report </h1>
 <u></u>
-![report](https://github.com/Niwin0516/LearnCypress/blob/master/cypress/reports/html/index.html)
-
+![report](https://github.com/Niwin0516/LearnCypress/blob/master/cypress/reports/html/index.html?raw=true)
 

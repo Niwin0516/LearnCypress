@@ -18,16 +18,16 @@
 <h1> Run Test </h1>
 <u></u>
 <li> Open Browser</li>
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://drive.google.com/file/d/1eVWWZqTV1QMfaEK034wcYQImET-Sw1Ro/view?usp=sharing)" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="(https://drive.google.com/file/d/1eVWWZqTV1QMfaEK034wcYQImET-Sw1Ro/view?usp=sharing)" frameborder="0" allowfullscreen></iframe>
 
 
 <li>Run from terminal</li>
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID](https://drive.google.com/file/d/12foVf2re5mdo3uU95KtZtH4KR0ndBnDw/view?usp=sharing)" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="(https://drive.google.com/file/d/12foVf2re5mdo3uU95KtZtH4KR0ndBnDw/view?usp=sharing)" frameborder="0" allowfullscreen></iframe>
 
 
 <h1> Report </h1>
 <u></u>
-<img src="(https://github.com/Niwin0516/LearnCypress/assets/159603613/01845a9f-9019-4fa9-ae74-4c2b29884b2f)
+<img src="![screencapture-file-Users-niwinpriskilanapitupulu-Desktop-Learn-Cypress-cypress-reports-html-index-html-2024-06-29-21_00_37]
 " alt="Deskripsi Gambar">
 
 

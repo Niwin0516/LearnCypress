@@ -18,18 +18,14 @@
 <h1> Run Test </h1>
 <u></u>
 <li> Open Browser</li>
-[Tautan Video](https://www.youtube.com/watch?v=lTMZxWMjXQU)
-
-
 
 <li>Run from terminal</li>
-<iframe width="560" height="315" src="https://drive.google.com/file/d/12foVf2re5mdo3uU95KtZtH4KR0ndBnDw/view?usp=sharing" frameborder="0" allowfullscreen></iframe>
+
 
 
 <h1> Report </h1>
 <u></u>
-![report](https://github.com/Niwin0516/LearnCypress/blob/master/cypress/reports/html/index.html?raw=true)
-![report](https://github.com/Niwin0516/LearnCypress/assets/159603613/4501e2bd-ce1b-49f3-852f-8fc1777ea98d)
+
 
 
 

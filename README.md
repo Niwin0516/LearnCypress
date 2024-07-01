@@ -2,7 +2,9 @@
 <u></u>
 <ol>
 <li>Open terminal</li>
-<li>Download repository</li>
+<li>Download repository or </li>
+<li>clone repository</li>
+   <pre><code>git clone https://github.com/Niwin0516/LearnCypress.git</code></pre>
 <li>Open directory <pre><code>cd LearnCypress</code></pre> </li>
 <li>Install node.js</li>
 <li>Install cypress</li>

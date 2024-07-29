@@ -1,5 +1,5 @@
 const { defineConfig } = require("cypress");
-const allureWriter = require('@shelex/cypress-allure-plugin/writer');
+const { allureCypress } = require("allure-cypress/reporter");
 
 
 module.exports = defineConfig({
@@ -14,12 +14,11 @@ module.exports = defineConfig({
   },
   e2e: {
     baseUrl: 'https://www.automationexercise.com/',
-    excludeSpecPattern: ['**/1-getting-started','**/2-advanced-examples'],
+    excludeSpecPattern: ['**/1-getting-started', '**/2-advanced-examples'],
     specPattern: 'cypress/e2e/**/*.{js,jsx,ts,tsx}',
+    
     setupNodeEvents(on, config) {
-      require('cypress-mochawesome-reporter/plugin')(on);
-      allureWriter(on, config);
-      return config;
+      allureCypress(on);
       // implement node event listeners here
     },
   },

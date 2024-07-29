@@ -1,0 +1,163 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 4,
+    "passes": 4,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-07-29T04:53:50.960Z",
+    "end": "2024-07-29T04:54:20.996Z",
+    "duration": 30036,
+    "testsRegistered": 4,
+    "passPercent": 100,
+    "pendingPercent": 0,
+    "other": 0,
+    "hasOther": false,
+    "skipped": 0,
+    "hasSkipped": false
+  },
+  "results": [
+    {
+      "uuid": "a5490a2a-9a09-4c3c-ba61-cf9dd693f239",
+      "title": "",
+      "fullFile": "cypress/e2e/auth/registerUser.spec.js",
+      "file": "cypress/e2e/auth/registerUser.spec.js",
+      "beforeHooks": [],
+      "afterHooks": [],
+      "tests": [],
+      "suites": [
+        {
+          "uuid": "aed1a97a-b800-4d1b-adba-643540172d12",
+          "title": "Scenario 1 : Registered new User",
+          "fullFile": "",
+          "file": "",
+          "beforeHooks": [],
+          "afterHooks": [],
+          "tests": [
+            {
+              "title": "TC-01 : As Learner I should be able to registered new account",
+              "fullTitle": "Scenario 1 : Registered new User TC-01 : As Learner I should be able to registered new account",
+              "timedOut": null,
+              "duration": 17793,
+              "state": "passed",
+              "speed": "slow",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "_registerObsjects.registerPage.validateHomepage();\n_registerObsjects.registerPage.goToRegisterPage();\n_registerObsjects.registerPage.fillAllFieldRegistered();\n_errorObjects.validateError.valEnterAccountInformation();\n_registerObsjects.registerPage.fillDetail1();\n_registerObsjects.registerPage.signNewsLatter();\n_registerObsjects.registerPage.signReceiveSpec();\n_registerObsjects.registerPage.fillDetail2();\n_registerObsjects.registerPage.deleteUser();",
+              "err": {},
+              "uuid": "022716e1-9dc3-4f7e-9610-a27078e120be",
+              "parentUUID": "aed1a97a-b800-4d1b-adba-643540172d12",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "TC-02 : As Learner I should not be able to registered new account with empty email",
+              "fullTitle": "Scenario 1 : Registered new User TC-02 : As Learner I should not be able to registered new account with empty email",
+              "timedOut": null,
+              "duration": 3461,
+              "state": "passed",
+              "speed": "fast",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "_registerObsjects.registerPage.validateHomepage();\n_registerObsjects.registerPage.goToRegisterPage();\nconst name = 'userkedua1';\ncy.fillForm(name, ' ');\n_buttonObjects.btn.registButton();\n_errorObjects.validateError.valStHome();",
+              "err": {},
+              "uuid": "bb8b1f10-a598-48bc-b0c3-7f0dbf9db2a2",
+              "parentUUID": "aed1a97a-b800-4d1b-adba-643540172d12",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "TC-03 : As Learner I should not be able to registered new account with invalid format email",
+              "fullTitle": "Scenario 1 : Registered new User TC-03 : As Learner I should not be able to registered new account with invalid format email",
+              "timedOut": null,
+              "duration": 4223,
+              "state": "passed",
+              "speed": "fast",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "_registerObsjects.registerPage.validateHomepage();\n_registerObsjects.registerPage.goToRegisterPage();\nconst name = 'userkedua1';\nconst email = 'userkedua1';\ncy.fillForm(name, email);\n_buttonObjects.btn.registButton();\n_errorObjects.validateError.valStHome();",
+              "err": {},
+              "uuid": "8bf20410-ee3b-426d-b797-084ead4cb2c9",
+              "parentUUID": "aed1a97a-b800-4d1b-adba-643540172d12",
+              "isHook": false,
+              "skipped": false
+            },
+            {
+              "title": "TC-04 : As Learner I should not be able to registered new account with same registered account",
+              "fullTitle": "Scenario 1 : Registered new User TC-04 : As Learner I should not be able to registered new account with same registered account",
+              "timedOut": null,
+              "duration": 4317,
+              "state": "passed",
+              "speed": "fast",
+              "pass": true,
+              "fail": false,
+              "pending": false,
+              "context": null,
+              "code": "_registerObsjects.registerPage.validateHomepage();\n_registerObsjects.registerPage.goToRegisterPage();\nconst name = 'test';\nconst email = 'test@gmail.com';\ncy.fillForm(name, email);\n_buttonObjects.btn.registButton();\n_errorObjects.validateError.valAlreadyExist();",
+              "err": {},
+              "uuid": "8a81c380-a372-42eb-b65a-791d922d0a88",
+              "parentUUID": "aed1a97a-b800-4d1b-adba-643540172d12",
+              "isHook": false,
+              "skipped": false
+            }
+          ],
+          "suites": [],
+          "passes": [
+            "022716e1-9dc3-4f7e-9610-a27078e120be",
+            "bb8b1f10-a598-48bc-b0c3-7f0dbf9db2a2",
+            "8bf20410-ee3b-426d-b797-084ead4cb2c9",
+            "8a81c380-a372-42eb-b65a-791d922d0a88"
+          ],
+          "failures": [],
+          "pending": [],
+          "skipped": [],
+          "duration": 29794,
+          "root": false,
+          "rootEmpty": false,
+          "_timeout": 2000
+        }
+      ],
+      "passes": [],
+      "failures": [],
+      "pending": [],
+      "skipped": [],
+      "duration": 0,
+      "root": true,
+      "rootEmpty": true,
+      "_timeout": 2000
+    }
+  ],
+  "meta": {
+    "mocha": {
+      "version": "7.0.1"
+    },
+    "mochawesome": {
+      "options": {
+        "quiet": false,
+        "reportFilename": "mochawesome",
+        "saveHtml": false,
+        "saveJson": true,
+        "consoleReporter": "spec",
+        "useInlineDiffs": false,
+        "code": true
+      },
+      "version": "7.1.3"
+    },
+    "marge": {
+      "options": {
+        "resultsDir": "allure-results",
+        "overwrite": false,
+        "html": false,
+        "json": true,
+        "reportDir": "cypress/reports/html/.jsons"
+      },
+      "version": "6.2.0"
+    }
+  }
+}
